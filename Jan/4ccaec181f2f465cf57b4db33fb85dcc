@@ -1,0 +1,41 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        
+ 
+
+
+The last of the ongoing battle of wits between Edo State Governor Godwin Obaseki and his estranged political godfather and predecessor Adams Oshiomhole is definitely yet you be seen as the governor has promised to deal with the APC National Chairman.
+In a fresh video making the rounds in the state, Obaseki who was addressing party leaders in company of his deputy Philip Shuaibu and state chairman if APC Anslem Ojezua warned Oshiomhole to stop causing trouble in the state.
+“We are warning Comrade Oshiomhole if he continues his activity in Edo, I will show him I am the governor of Edo,” he told his audience.
+According to him, President Muhammadu Buhari has told them in one NEC meeting that party leaders should build state structure from the wards.
+“And that’s what we are doing here. If any leader will not comply with the structure, let him leave the party,” he said.
+Obaseki noted that when Oshiomhole was governor, he would not tolerate this kind of infraction and misdemeanor.
+“I have decided if Oshiomhole comes here to disrupt the activity of the state and that of the party, we will deal with him the way we know best.”
+
+			
+			PV: 
+			0
