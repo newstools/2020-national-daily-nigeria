@@ -1,0 +1,38 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        
+ 
+
+
+A Nigerian man identified as Daniel, has reportedly been stabbed to death by his wife, at about 2:26 A.M, on Thursday, February 13th 2020.
+Facebook user, Iykechukwu Ikechukwu shared videos from the scene of the incident, and has claimed the man never cheated on his wife and only preached “repentance” to her.
+He wrote; “My neighbor was stabbed by his wife, Rest in peace, best man…we do crack jokes everyday if we come back from work….chioo I will see you no more..”
+“Nobody should say anything about best man cheating, he is not a cheating type, yesterday he was preaching to his wife to repent but rather than repenting she killed him in the middle of the night…”
+
+			
+			PV: 
+			0
