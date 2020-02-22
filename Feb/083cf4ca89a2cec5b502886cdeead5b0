@@ -1,0 +1,16 @@
+Google is placing new restrictions on which Android apps can track your location in the background, with a new review process that will check whether an app definitely needs access to the data.
+The changes were announced in a blog post to Android developers earlier this week. Google says that from August 3rd all new Google Play apps that ask for background access will need to pass review, expanding to all existing apps on November 3rd.
+Although location tracking is an essential feature for many apps and services, it can be pretty invasive when apps indiscriminately ask for location access. Background tracking is even worse, because it means that you might be completely unaware of which apps on your phone are tracking you at any moment in time.
+The new review process will force apps to justify why they need to use the feature, and have them limit their tracking when they can’t.
+Google says that this review process will look at whether an app’s core functionality actually justifies this background location access. A social networking app that lets users opt in to continuously sharing their location with friends would be okay, Google says.
+However, it would be harder to justify this for a store locator app, since this would work just as well if it only got location access while the app is in use. Clearly informing the user will help an app’s chances of getting approved, Google adds.
+ALSO READ: FG reveals reasons for $500m loan request for NTA
+The changes were announced as part of a wider crackdown on location tracking in Android 11, which follows in iOS 13’s footsteps by letting you grant sensitive permissions on a one-time basis. Apple’s operating system also offers reminders that apps are tracking your location in the background.
+However, these policies seemingly don’t apply to some of Apple’s own apps like Find My, in a move that’s been criticized by some developers.
+In contrast, Google says that its policies will apply to its own apps, which is reassuring given the company’s less-than-perfect approach to location tracking in the past.
+Back in 2018 Associated Press found that turning off Google’s Location History setting wouldn’t stop all location tracking because of an additional Web and App Activity setting that would continue to track you. In response, last year Google introduced a new feature to allow you to automatically delete this location data automatically after a certain amount of time.
+The announcement post also reminds developers that they’re responsible for any third-party SDKs and libraries they use in their apps. Last year, one study found that some apps were using these SDKs to track users, even when users had opted out of location tracking.
+
+			
+			PV: 
+			0
