@@ -1,0 +1,107 @@
+By Ikwan Onkha
+
+I’ve been wearing my physicist cap lately and here’s a bit of what I know about cellular frequency bands (3G, 4G, 5G) in connection with the COVID-19/SARS-CoV-2. brouhaha.
+
+Nikola Tesla, a scientific hero, is quoted to have said:
+If you want to understand the universe, think in terms of energy, frequency, and vibrations.
+
+Without judgment or the need to impose an informed opinion, I will proceed as Tesla wisely suggested.
+
+The following frequency bands are radio frequencies used by the third-generation (3G) wireless Universal Mobile Telecommunication System (UMTS) networks:
+700MHz, 800MHz, 850MHz, 900MHz, 1500MHz, 1600MHz,  1700MHz, 1800MHz, 1900MHz, 2100MHz, 2600MHz, 3500MHz,
+
+The fourth-generation (4G) Long Term Evolution (LTE) networks use the following frequency bands:
+700MHz, 800MHz, 850MHz, 900MHz, 1500MHz, 1700MHz, 1800MHz, 1900MHz, 2000MHz, 2100MHz, 2300MHz, 2500MHz, 2600MHz, 3300MHz, 3500MHz, 3700MHz, 5200MHz, 5900MHz,
+
+For the fifth-generation (5G) Near Radio (NR) networks, the following frequency bands are available:
+700MHz, 800MHz, 850MHz, 900MHz, 1500MHz, 1800MHz, 1900MHz, 2000MHz, 2100MHz, 2300MHz, 2500MHz, 2600MHz, 3500MHz, 3700MHz, etc
+
+Prior to the outbreak of COVID-19, I was researching alternative therapeutics based on vibrational energy and destructive resonance. My focus was on Lassa Fever and other endemic viral diseases. Don’t ask who sent me. It’s none of your business.
+
+So, the Wuhan virus struck and caught everybody’s attention. Soon came allegations and conspiracy theories linking the virus outbreak to the 5G deployment and tweaks happening in Wuhan and other major cities of the world. I decided to study the Wuhan virus using some of the methods I developed while researching the Lassa virus, which was based on the physics of vibrational energy and frequency.
+
+And why not? After all, a virus is a particle. Biochemists will quickly agree with me that a virus is a particle – virion.  But actually, that’s a half-truth. One that has caused a lot of misunderstanding within the scientific community. The virion is, indisputably, a quantum entity. As such, it exhibits the characteristic wave-particle duality elucidated in Quantum Mechanics/Physics. So, SARS-CoV-2 is as much a wave as it is a particle.
+
+Restoring the status of a virion like SARS-CoV-2 as a wave-particle changes everything. For one, its fundamental relationship with the wave nature of radiation from cellular networks becomes obvious. The shared wave nature of both systems offers a good basis for investigating the possible effects of their interaction.
+
+To establish a verifiable relationship between two physical entities, one would need a common measurable quality/quantity and a mutual principle or phenomenon. Both conditions are not far-etched in the case at hand. Waves are expressions of vibrations and vibrations are measured in FREQUENCY (cycles per second). That settles the aspect of common measurement. For mutual principle/phenomenon, RESONANCE and resonant coupling come into play.
+
+Resonance describes the phenomena of amplification that occurs when the frequency of a periodically applied force is in harmonic proportion to a natural frequency of the system on which it acts. It makes for the transfer of energy-information between the applied force and the dynamic system being impacted. Regarding this discussion, radiation from 3G/4G/5G networks forms the periodically applied force while the SARS-CoV-2 represents the system at the receiving end.
+
+If one can convincingly show that the natural vibrational frequency of the SARS-CoV-2 system falls within the frequency bandwidth of 3G/4G/5G networks, then it should be granted that the energy-information activities of these networks bear influence on SARS-CoV-2 and consequently on COVID-19.
+
+The frequency bands of 3G/4G.5G have already been listed above. So, the next logical task will be to find the resonant frequency or frequencies involved in the SARS-CoV-2 system.
+
+When SARS-CoV-2 invades a cell via the ACE2 receptor, its RNA hijacks the cell’s resources and coopts two protein enzymes for the purpose of replication and transcription. These enzymes have been identified as the RNA-dependent RNA polymerase (RdRp)- nsp12 and the Main protease, 3-CLpro. Therefore, the SARS-CoV-2 system in a typical COVID-19 case will consist of three resonant frequencies: One for the SARS-CoV-2 RNA, and the other two for nsp12 and 3CLpro.
+
+In order to find the vibrational frequency of SARS-CoV-2 RNA, I studied available bioinformatics on the virus. The SARS-CoV-2 RNA with  Genome ID: MN908947 has 29,903 bases, while the genome from the index case in Nigeria has 29,844 bases.
+
+Genome size has a mathematical relationship with approximate mass, from which frequency can be calculated using a combination of Albert Einstein’s particle energy equation ( E = MC^2 ) and Max Planck’s wave energy equation ( E = hv ).
+
+hv = MC^2
+v = MC^2/h
+
+Where v is frequency, M is mass, C is the speed of light and h is Planck’s constant.
+C = 299,792,458m/s, approximately =  3e8m/s. C^2 = 9e16m/s. And Planck’s constant, h = 6.63e-34J/s.
+
+Solving for the approximate molecular mass of the single stranded SARS-CoV-2 RNA molecule with 29903 bases:
+
+M = 29903 * 330Da = 9867990Da
+(1Da = 1.661e-24g)
+Therefore,
+Mass = 9867990 * 1.661e-24 = 1.639073e−17g
+
+Applying the frequency formula,
+v = MC^2/h
+Frequency =  (1.639073e−17 * 9e16) / 6.63e-34 = 2.224986e33Hz
+
+Which on its -72nd octave harmonic = 3.67GHz
+And in the -73rd octave = 1.83GHz
+
+3.67GHz and 1.83GHz frequencies fall within the cellular frequency bandwidths of 3.7GHz and 1.8GHz, respectively. These are frequency bands used in both 4G and 5G networks.
+
+Please refer to the list of frequency bands above to confirm.
+
+That means,  it is possible for the SARS-CoV-2  system to absorb energy from 4G and 5G radiations whether or not such radiations are ionizing.
+
+Now let’s solve for the other two frequencies of the SARS-CoV-2 system.
+
+SARS-CoV-2 POLYMERASE. RdRp, (non-structural protein) nsp12. Molar mass > 110kDa.
+
+Mass =(110000 * 1.661e-24)g = 1.8271e−19g
+Frequency =(1.8271e−19 * 9e16) / 6.63e-34 = 2.480226e31Hz
+
+Which on its -67th octave harmonic = 2.63GHz
+2.63GHz falls within the bandwidth of 2.6GHz, which is a cellular frequency band available for 3G, 4G, and 5G networks.
+
+Again confirm from the list above.
+
+For the SARS-CoV-2 PROTEASE. C22H43N5O9, Molar mass > 641.712Da.
+
+Mass = (641.71 * 1.661e-24)g = 1.06588e−21g
+Frequency = (1.06588e−21 * 9e16) / 6.63e-34 = 1.446896e29Hz
+
+Which on its -58th octave harmonic = 1.96GHz
+1.96GHz falls within the bandwidth of 2.0GHz, is a cellular frequency band available for 4G and 5G networks.
+
+Please confirm, one last time, from the list above.
+
+
+For those who are averse to mathematical representations, here’s a recap of the three resonant frequencies of the SARS-CoV-2/COVID-19 system and the cellular networks with matching frequency bands:
+
+SARS-CoV-2 RNA: 4G, 5G
+Polymerase (nsp12): 3G, 4G, 5G
+Protease (3CLpro): 4G, 5G
+
+From the foregoing, it is evidently clear that radiation from cellular network systems – 3G, 4G, and 5G interact energetically with the SARS-CoV-2/COVID system at quantum levels. It is therefore very possible that SARS-CoV-2 absorbs energy-information from these radiations through the phenomenon of resonant amplification.
+
+Another glaring possibility is that the sudden surge in 5G deployment could have notched the energy absorption of the virion system to the threshold required for massive replication and infection, culminating in the global COVID-19 pandemic.
+
+I stand to be corrected, but only by overwhelming scientific evidence that trumps what I have presented here.
+
+————
+I love science and technology with deep passion and I’m all for innovations that help advance civilization. I’m simply advocating for full disclosure on the pros and cons of the scientific inventions we collectively choose to embrace. It is a moral duty for those at the forefront of technological innovations to let the world know about the adverse effects, if any, of every new technology.
+
+			
+			PV: 
+			0
