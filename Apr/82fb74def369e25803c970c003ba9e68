@@ -1,0 +1,51 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        
+ 
+
+
+
+Two sons of late Dr. Yakubu Aliyu, a practicing medical doctor in Daura, Katsina state who died last week, have debunked the report that said their father died of the dreaded Coronavirus.
+In a separate video by the two children, they alleged that the reports which confirmed that their father died of Coronavirus were manipulated.
+It would be recalled that the Katsina State Government had confirmed the death of the medical doctor, Aliyu Yakubu, aged 60, who died at the Nigeria Air Force Reference Hospital, Daura last week as being killed by the Coronavirus.
+Governor Aminu Masari of Katsina had said the deceased, owned a private hospital in Daura and had visited his home state, Kogi, from where he travelled to Lagos some weeks ago.
+However, Mr. Nuhu Aliyu, one of the sons’ of late medical doctor accused health officials of the National Centre for Disease and Control (NCDC) for manipulating the sample result of their father’s coronavirus test.
+In a short video of himself speaking on the incident, Nuhu, described the report that his father contacted and died of coronavirus as fake, urging the general public to disregard the fake news and misinformation.
+He disclosed that though personnel of NCDC in Katsina State stormed their house on Tuesday and took their samples for medical analysis, they were surprised to hear that three of them have also tested positive in the social media.
+This is even without the public knowing the actual number of persons whose samples were taken in their family.
+“They have already concluded plans to come and pick me, my mother and brother for observation. But we don’t know where they intend to take us to, the kind of food they will give us and also the medication. That is why I am shooting this small video in case anything bad happens to us,” Nuhu said.
+In another video, Abdulmalik Aliyu, another son of the late physician, said he also recently received news from his friends that he has COVID-19, even while the NCDC officials are yet to call him and confirmed his status.
+He said though their father just passed away, he did not die as a result of coronavirus.
+Like his brother, he also urged the public to report his video to security agencies, should anything tragic happens to them.
+Responding to the allegation of manipulation of results of COVID-19, a spokesperson of NCDC, Chukwuemeka Oguanuo, said the issue of manipulation has been cleared severally by authorities including the DG of Centre during the daily presidential press briefing.
+“The State Ministry of Health or the State Government should provide an update on this. They are aware,” he concluded.
+
+ 
+
+			
+			PV: 
+			0
