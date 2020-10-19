@@ -1,0 +1,37 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        Share this on WhatsApp
+ 
+
+
+Hundreds of protesters in the ongoing #EndSARS protests on Monday invaded the Benin Prisons, and in the process many inmates were said to have escaped as the protesters chanted war songs, daring the prison authorities to shoot.
+Although the prison authorities are yet to provide details of the escaped inmates, a video which was uploaded on YouTube shows how the inmates were scaling the fence out into the street as the protesters gathered at the main gate.
+The protests which entered its 13th day on Monday spanned Lagos, Abuja, Awka, Warri, Abeokuta and other parts of Nigeria where it had persisted.
+Ongoing concern about SARS’ activities led in 2017 to a Twitter campaign with the hashtag #EndSARS, which was successful in getting Nigeria’s police chief to order an immediate re-organisation of the anti-robbery unit.
+But when a video circulated online more than a week ago showing a man being beaten, apparently by police from the SARS unit, protests began in earnest.
+This came on a day Amnesty International in its twitter handle, said no fewer than 10 #EndSARS protesters had been killed by the police since the protests started.
+Share this on WhatsApp
