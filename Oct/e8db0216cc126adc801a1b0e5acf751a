@@ -1,0 +1,34 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        Share this on WhatsApp
+ 
+
+
+Hoodlums on Tuesday infiltrated the legitimate #ENDSARS protesters in Lagos, attacking and setting ablaze some police stations in the state. The hoodlums at about 11.25am set the Orile Iganmu Police State on fire.
+National Daily gathered that Pako, Layen police stations in Ajegunle, Ifelodun LGA, were also set on fire. The hoodlums were observed jubilating over the inferno wasting the structures of the security agency at Orile Iganmu in a video that has gone viral on social media.
+Meanwhile, the #ENDSARS protests continue in several parts of the country despite the “Operation Crocodile Smile” of the Nigerian Army.
+Share this on WhatsApp
